@@ -1,0 +1,11 @@
+DAY 1 DATA QUALITY REPORT
+==================================================
+
+Total Funds: 40
+Total Fund Houses: 10
+Total Categories: 2
+Total Sub Categories: 12
+Total Risk Categories: 5
+
+AMFI Validation Completed Successfully
+Missing AMFI Codes: 0
